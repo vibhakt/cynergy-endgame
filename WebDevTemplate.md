@@ -16,9 +16,7 @@ Explain your solution and how your problem solving approach. You can give diagra
 ## Technologies or  Languages Used
 
 * HTML
-* CSS
-* MEAN Stack
-* GIt
+
 * Anything and everything you are using
 
 ## Instructions to run the project
