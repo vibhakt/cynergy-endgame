@@ -21,5 +21,5 @@ Explain your solution and how your problem solving approach. You can give diagra
 
 ## Instructions to run the project
 
-This is optional you must provide if it happens to use anything untraditional
+This istional you must provide if it happens to use anything untraditional
 
