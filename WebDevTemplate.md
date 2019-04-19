@@ -1,11 +1,20 @@
 # Title of Project
+Title is #cleancolony_swatchbharat
 
+This website is all about a movement regarding maintaining their respective area/colony clean by a group of interested individuals who form the team in their respective areas by the help of this website.
 ## Team Members
+1.Vibha k t
+  (vibhakt123@gmail.com)
 
-1. Chirag Mittal (chiragmittalcm7@gmail.com)
-2.  Rishabh Mittal (rishabhmittal200@gmail.com)
 
 ## Problem Statement
+Though people are educated there is lack of awarness among them 
+Regarding maintenance of their surroundings as well as garbage 
+Disposal. 
+
+So a website is being developed where people of a particular area if registered will get a notification
+When the garbage vehicle arrives and also there is access to many other cleanliness activities through this 
+Website.
 
 Briefly explain the problem statement chosen
 
